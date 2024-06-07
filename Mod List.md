@@ -27,14 +27,6 @@
 - [下界乐事] NethersDelight-2.2.0
 
 - [均衡饮食] diet-forge-1.18.2-1.3.2.1.jar
-
-# 冒险&挑战
-
-> 模组暂未添加测试，仅作备忘用途
-
-- [迎战] Meet Your Fight
-
-- [冠军/强敌] Champions
   
 # 辅助&实用
 
@@ -107,3 +99,37 @@
 - [KJS魔改]probejs-4.0.0-fix4-forge.jar
 
 - [KJS魔改]kubejs-forge-1802.5.5-build.569.jar
+
+# 待添加测试的模组，考虑中的模组
+
+## 科技
+
+- [机械动力：甜食]Create Confectionery //更多食物，谁会拒绝甜食呢
+
+- [机械动力：更多存储挂载]Create: Mounted Storages //方便往农场挂载抽屉等储存
+
+- [机械动力：更多土豆]Create: More potatoe //有麦当劳薯条
+
+- [机械动力：晶莹剔透]Create: Crystal Clear //应该能作为中期的合成目标内容
+
+- [机械动力：合金]Create: Alloyed //同上
+
+- [机械动力：平衡飞行]Create: Balanced Flight //看起来很好用
+
+## 农业
+
+- [作物盛景]Croptopia //添加更多吃的，我们有必要加那么多吗
+
+- [资源坤坤]Resource Chickens //量产某些资源
+
+- [更多鸡]Chickens //同上，选一个就行
+
+- [多方块牧场]Multipart Machines: Grinding //思考是否添加，后期可以用来自动化生产某些end game内容
+
+## 冒险&挑战
+
+- [迎战] Meet Your Fight //很方便的BOSS召唤挑战，希望能找到更多
+
+- [冠军/强敌] Champions //估计要调整下生成
+
+- [末地：创世]End Remastered //应该会使用部分素材
