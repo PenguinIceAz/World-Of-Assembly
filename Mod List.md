@@ -11,6 +11,18 @@
 - [机械动力：喷气背包] Create_jetpack-forge-1.6.1
   
 - [机械动力：中央厨房] Create_central_kitchen-for-create-0.5.1.f-1.3.9.d
+
+- [机械动力：甜食]Create Confectionery //更多食物，谁会拒绝甜食呢
+
+- [机械动力：更多存储挂载]Create: Mounted Storages //方便往农场挂载抽屉等储存
+
+- [机械动力：更多土豆]Create: More potatoe //有麦当劳薯条,暂时禁用
+
+- [机械动力：晶莹剔透]Create: Crystal Clear //应该能作为中期的合成目标内容
+
+- [机械动力：合金]Create: Alloyed //同上
+
+- [机械动力：平衡飞行]Create: Balanced Flight //看起来很好用，作为支线或者中期目标
   
 - [永恒枪械工坊] tac-0.3.10.1
 
@@ -27,7 +39,25 @@
 - [下界乐事] NethersDelight-2.2.0
 
 - [均衡饮食] diet-forge-1.18.2-1.3.2.1.jar
+
+- [生活调味料：胡萝卜][生活调味料：胡萝卜版] SoL-Carrot-1.18.1-1.12.0.jar
+
+- [生活调味料：红薯版] solsweetpotato-1.18.2-2.0.0.jar
+
+## 冒险&挑战
+
+- [迎战] Meet Your Fight //很方便的BOSS召唤挑战，希望能找到更多
+
+- [冠军/强敌] Champions //估计要调整下生成
+
+- [末地：创世]End Remastered //应该会使用部分素材,需要集齐12颗末影之眼才能打开，可以作为游戏整体流程目标
+
+- [深暗之园] The_Undergarden-1.18.2-0.7.1.jar //战斗维度
+
+- [灾变]L_Enders Cataclysm-0.51-changed Them -1.18.2.jar
   
+- [Mowzie的生物] mowziesmobs-1.6.3.jar
+
 # 辅助&实用
 
 - [可视化工作台] VisualWorkbench-v3.3.0-1.18.2-Forge.jar
@@ -42,7 +72,7 @@
 
 - [树叶快速腐烂] FastLeafDecay-28.jar
 
-- [连接纹理] CTM-1.18.2-1.1.5+5.jar
+- [连接纹理] CTM-1.18.2-1.1.5+5.jar //冲突暂时禁用
   
 - [建筑手杖] constructionwand-1.18.2-2.9.jar
 
@@ -82,9 +112,14 @@
 
 - [铷 · 扩展]rubidium-extra-0.4.18+mc1.18.2-build.86.jar
 
+- [灾变Boss血条显示] cataclysmbossbar-1.18.2-1.0.1.jar
+
 
 # 装饰
+
 - [3D 皮肤层] skinlayers3d-forge-1.6.5-mc1.18.2.jar
+
+- [小熊猫]ydms_redpanda-forge-1.18.2-1.0.2.jar
   
 # 魔改
   
@@ -100,21 +135,9 @@
 
 - [KJS魔改]kubejs-forge-1802.5.5-build.569.jar
 
+- [禁止怪物生成]BadMobs-1.18.2-13.01.jar
+
 # 待添加测试的模组，考虑中的模组
-
-## 科技
-
-- [机械动力：甜食]Create Confectionery //更多食物，谁会拒绝甜食呢
-
-- [机械动力：更多存储挂载]Create: Mounted Storages //方便往农场挂载抽屉等储存
-
-- [机械动力：更多土豆]Create: More potatoe //有麦当劳薯条
-
-- [机械动力：晶莹剔透]Create: Crystal Clear //应该能作为中期的合成目标内容
-
-- [机械动力：合金]Create: Alloyed //同上
-
-- [机械动力：平衡飞行]Create: Balanced Flight //看起来很好用，作为支线或者中期目标
 
 ## 农业
 
@@ -125,11 +148,3 @@
 - [更多鸡]Chickens //同上，选一个就行
 
 - [多方块牧场]Multipart Machines: Grinding //思考是否添加，后期可以用来自动化生产某些end game内容
-
-## 冒险&挑战
-
-- [迎战] Meet Your Fight //很方便的BOSS召唤挑战，希望能找到更多
-
-- [冠军/强敌] Champions //估计要调整下生成
-
-- [末地：创世]End Remastered //应该会使用部分素材
