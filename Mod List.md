@@ -114,11 +114,11 @@
 
 - [机械动力：合金]Create: Alloyed //同上
 
-- [机械动力：平衡飞行]Create: Balanced Flight //看起来很好用
+- [机械动力：平衡飞行]Create: Balanced Flight //看起来很好用，作为支线或者中期目标
 
 ## 农业
 
-- [作物盛景]Croptopia //添加更多吃的，我们有必要加那么多吗
+- [作物盛景]Croptopia //添加更多吃的，但我们有必要加那么多吗
 
 - [资源坤坤]Resource Chickens //量产某些资源
 
