@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "item": "ftbquests:book"
+    },
+    {
+      "item": "minecraft:wooden_axe",
+      "nbt": "{Damage:0}"
+    },
+    {
+      "item": "exnihilosequentia:wooden_crook",
+      "nbt": "{Damage:0}"
+    }
+  ]
+}

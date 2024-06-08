@@ -1,0 +1,29 @@
+{
+  // The template which will be used for spawn only
+  // Example: 
+  // {
+  //     "name": "WoA",
+  //     "desc": "天空一号",
+  //     "file": "default.nbt",
+  //     "spawns": "default",
+  //     "direction": "south"
+  // }
+  "spawn": null,
+  
+  "spawns": {
+    "default": [
+      [ 3, 67, 2 ]
+    ]
+  },
+  
+  // The list of templates being available. The first entry is the default template.
+  "templates": [
+    {
+      "name": "空岛一号",
+      "desc": "",
+      "file": "default.nbt",
+      "spawns": "default",
+      "direction": "south"
+    }
+  ]
+}

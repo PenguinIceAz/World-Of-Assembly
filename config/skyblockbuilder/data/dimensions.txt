@@ -1,0 +1,4 @@
+minecraft:overworld
+minecraft:the_nether
+undergarden:undergarden
+minecraft:the_end
