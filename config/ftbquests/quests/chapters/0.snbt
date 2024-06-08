@@ -1,0 +1,167 @@
+{
+	id: "1B9276F268AA0ADD"
+	group: ""
+	order_index: 0
+	filename: "0"
+	title: "第0章：总之是一些介绍"
+	icon: "create:wrench"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			subtitle: "记得看完第0章，有小\"红\"蛋>  <"
+			id: "5E16C550B5A3AF31"
+			tasks: [{
+				id: "22C954750040DDD8"
+				type: "checkmark"
+				title: "欢迎来到装配世界WoA"
+			}]
+			rewards: [{
+				id: "3DEC6CC43A0866E5"
+				type: "toast"
+				title: "摔得有点狠"
+				icon: "minecraft:totem_of_undying"
+				auto: "enabled"
+				description: "魔改得有点多，记得跟任务走"
+			}]
+		}
+		{
+			icon: {
+				id: "exnihilosequentia:wooden_crook"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 0.0d
+			y: 1.5d
+			subtitle: "总之先勾一下试试！"
+			description: [
+				"加快叶子破坏速度，更多的树苗和苹果，还有概率掉落蚕"
+				"记得使用连锁破坏提高效率哦  @. @"
+			]
+			dependencies: ["5E16C550B5A3AF31"]
+			dependency_requirement: "one_started"
+			id: "28CFA26793D2B66E"
+			tasks: [{
+				id: "76749F9D1155C508"
+				type: "checkmark"
+				title: "可以用来勾树叶哦，不要拿来勾其他的哦"
+			}]
+			rewards: [
+				{
+					id: "0B2E7381037C8CEA"
+					type: "item"
+					auto: "enabled"
+					item: "minecraft:oak_sapling"
+					count: 8
+				}
+				{
+					id: "623FE24591359243"
+					type: "item"
+					auto: "enabled"
+					item: "exnihilosequentia:silkworm"
+				}
+			]
+		}
+		{
+			title: "Ze肉 to He肉"
+			icon: "minecraft:dirt"
+			x: 0.0d
+			y: 3.0d
+			subtitle: "绝望的肉"
+			description: ["必要时的应急食品...不要直接右键啊喂!"]
+			dependencies: ["28CFA26793D2B66E"]
+			id: "0876C56972B2502F"
+			tasks: [{
+				id: "75F6230A7FCE2754"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "2DFDA2DA0CF47828"
+				type: "item"
+				item: "minecraft:rotten_flesh"
+			}]
+		}
+		{
+			icon: "minecraft:sweet_berries"
+			x: 0.0d
+			y: 4.5d
+			description: ["不会掉肉的所以不要吃小熊猫呀>  <"]
+			dependencies: ["0876C56972B2502F"]
+			hide: true
+			id: "0901537989939233"
+			tasks: [{
+				id: "2191980DD42E4695"
+				type: "checkmark"
+				title: "小熊猫....rua!"
+			}]
+			rewards: [
+				{
+					id: "59BEC1E214E7F942"
+					type: "item"
+					auto: "enabled"
+					item: "ydms_redpanda:redpanda_spawn_egg"
+				}
+				{
+					id: "146212DC841C19E5"
+					type: "item"
+					auto: "enabled"
+					item: "minecraft:sweet_berries"
+					count: 3
+					random_bonus: 8
+				}
+			]
+		}
+		{
+			title: "化作春泥更护花(模组真的叫这个名字!)"
+			icon: "minecraft:bone_meal"
+			x: 1.5d
+			y: 3.0d
+			description: ["腐肉在落地之后会催熟下方的生长方块"]
+			dependencies: ["0876C56972B2502F"]
+			dependency_requirement: "one_completed"
+			id: "00234659638C1DB7"
+			tasks: [{
+				id: "7927CEBB98CAE867"
+				type: "checkmark"
+				title: "把腐肉丢在地上，化作春泥"
+			}]
+		}
+		{
+			x: -1.0d
+			y: -2.0d
+			description: [
+				"整合包修改了大部分合成以及资源获取途径"
+				"任务指引和JEI合成表很有用!"
+			]
+			dependencies: ["5E16C550B5A3AF31"]
+			dependency_requirement: "one_started"
+			id: "1953C34F3C2DA2A5"
+			tasks: [{
+				id: "40ECA8699D409479"
+				type: "checkmark"
+				title: "说明"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -2.0d
+			description: [
+				"前期以按照任务线指引合成 ,  排布必要的产线为目标"
+				"初始血量只有1心 , 需要按照食物标记实用新的来增加上限"
+			]
+			dependencies: ["5E16C550B5A3AF31"]
+			dependency_requirement: "one_started"
+			id: "2809266DD9E8B83B"
+			tasks: [{
+				id: "570A030F7F996E50"
+				type: "checkmark"
+				title: "前期目标"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

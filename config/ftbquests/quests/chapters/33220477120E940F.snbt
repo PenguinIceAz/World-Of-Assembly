@@ -1,0 +1,127 @@
+{
+	id: "33220477120E940F"
+	group: "59D0144DCE357A4C"
+	order_index: 0
+	filename: "33220477120E940F"
+	title: "第一章：素食时代"
+	icon: "farmersdelight:cabbage"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	progression_mode: "linear"
+	quests: [
+		{
+			title: "在小小的台子里面挖呀挖呀挖"
+			icon: "exnihilosequentia:oak_sieve"
+			x: -7.5d
+			y: 3.0d
+			subtitle: "挖小小的种子开小小的麦子"
+			description: ["可以多放几个用连锁来筛哦"]
+			dependencies: [
+				"2FB91A089BF62ED0"
+				"0ECB465B17A2B5DE"
+			]
+			size: 3.0d
+			id: "4628E08B0E12EEA4"
+			tasks: [
+				{
+					id: "02282BC86C39482E"
+					type: "item"
+					item: "exnihilosequentia:oak_sieve"
+					consume_items: false
+					only_from_crafting: true
+				}
+				{
+					id: "73B95C992B5D7683"
+					type: "item"
+					item: "exnihilosequentia:string_mesh"
+				}
+			]
+		}
+		{
+			title: "首先有了钩子 , 然后才有史学家"
+			icon: {
+				id: "exnihilosequentia:wooden_crook"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -14.5d
+			y: 2.5d
+			description: ["可以用钩子破坏树叶获得更多掉落物哦> <"]
+			dependencies: ["1B9276F268AA0ADD"]
+			hide: true
+			dependency_requirement: "one_completed"
+			id: "5891FFCDB013A200"
+			tasks: [{
+				id: "63838596B6DD0848"
+				type: "checkmark"
+				title: "钩子"
+			}]
+		}
+		{
+			title: "掉到我脸上这白色的是什么!"
+			icon: "exnihilosequentia:silkworm"
+			x: -12.5d
+			y: 2.5d
+			description: [
+				"用钩子破坏树叶有概率掉落蚕"
+				"蛋白质是牛肉的六倍! (其实并没有)"
+			]
+			dependencies: ["5891FFCDB013A200"]
+			dependency_requirement: "one_completed"
+			id: "1CE241596AF8BD84"
+			tasks: [{
+				id: "23DFEF9ECC4E2431"
+				type: "checkmark"
+				title: "我脸上这白色的是什么!"
+			}]
+		}
+		{
+			icon: "minecraft:string"
+			x: -10.5d
+			y: 2.5d
+			subtitle: "将蚕右键放到树叶上等待感染"
+			description: [
+				"感染完成后破坏就能获得线啦"
+				"真的很大量很大量的线哦"
+			]
+			dependencies: ["1CE241596AF8BD84"]
+			id: "2FB91A089BF62ED0"
+			tasks: [
+				{
+					id: "5E828C28F52C038D"
+					type: "checkmark"
+					title: "DNMD全白了!"
+				}
+				{
+					id: "5B7E64032B276F72"
+					type: "item"
+					item: "minecraft:string"
+					consume_items: false
+				}
+			]
+			rewards: [{
+				id: "7B1E65CE37106271"
+				type: "item"
+				item: "exnihilosequentia:silkworm"
+			}]
+		}
+		{
+			icon: "minecraft:oak_log"
+			x: -10.5d
+			y: 4.0d
+			description: ["只是一个前置提醒你用木头合成台子"]
+			dependencies: ["1B9276F268AA0ADD"]
+			hide: true
+			dependency_requirement: "one_completed"
+			id: "0ECB465B17A2B5DE"
+			tasks: [{
+				id: "3933F71C052DD446"
+				type: "checkmark"
+				title: "谁让他拿到木头的你这松饼脑"
+			}]
+		}
+	]
+	quest_links: [ ]
+}
