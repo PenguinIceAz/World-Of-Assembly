@@ -40,7 +40,7 @@
 
 - [均衡饮食] diet-forge-1.18.2-1.3.2.1.jar
 
-- [生活调味料：胡萝卜][生活调味料：胡萝卜版] SoL-Carrot-1.18.1-1.12.0.jar
+- [生活调味料：胡萝卜] SoL-Carrot-1.18.1-1.12.0.jar
 
 - [生活调味料：红薯版] solsweetpotato-1.18.2-2.0.0.jar
 
@@ -59,6 +59,10 @@
 - [Mowzie的生物] mowziesmobs-1.6.3.jar
 
 # 辅助&实用
+
+- [无中生有：传承]ExNihiloSequentia-1.18.2-20230528-221633.jar
+
+- [化作春泥更护花] NextSpring-Forge-1.18.2-1.0.0.jar
 
 - [可视化工作台] VisualWorkbench-v3.3.0-1.18.2-Forge.jar
 
@@ -114,6 +118,16 @@
 
 - [灾变Boss血条显示] cataclysmbossbar-1.18.2-1.0.1.jar
 
+- [FTB 团队] ftb-teams-forge-1802.2.11-build.107.jar
+
+- [FTB区块]ftb-chunks-forge-1802.3.17-build.265.jar
+
+- [连锁破坏] ftb-ultimine-forge-1802.3.4-build.93.jar
+
+- [FTB备份2] ftbbackups2-forge-1.18.2-1.0.23.jar
+
+- [FTB任务]ftb-quests-forge-1802.3.15-build.298.jar
+
 
 # 装饰
 
@@ -123,7 +137,9 @@
   
 # 魔改
   
-- [空岛建立者] SkyblockBuilder-1.18.2-3.3.25.jar
+- [空岛建立者]SkyblockBuilder-1.18.2-3.3.25.jar
+
+- [空岛建立者UI]SkyGUIs-1.18.2-1.2.2.jar //UI管理空岛团队
 
 - [KJS魔改]lootjs-forge-1.18.2-2.7.7.jar
 
