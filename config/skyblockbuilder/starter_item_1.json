@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "item": "ftbquests:book"
+    },
+    {
+      "item": "minecraft:wooden_axe",
+      "nbt": "{Damage:0}",
+      "displayname": "{3耐久的镐...欸斧头吗}"
+    },
+    {
+      "item": "exnihilosequentia:wooden_crook",
+      "nbt": "{Damage:0}",
+      "displayname": "{可以用来勾树叶哦，不能拿来勾其他的哦}"
+    },
+    {
+      "item": "constructionwand:stone_wand",
+      "nbt": "{Damage:0,wand_options:{}}",
+      "displayname": "{什么年代了还手铺地板}"
+    },
+    {
+      "item": "ydms_redpanda:redpanda_spawn_egg",
+      "displayname": "{小熊猫...rua!}"
+    },
+    {
+      "item": "minecraft:sweet_berries",
+      "count": 64,
+      "displayname":"{可以用来收服小熊猫哦////}"
+    },
+    {
+      "item": "minecraft:dirt",
+      "count": 32,
+      "displayname": "{必要时的应急食品...不要直接右键啊喂!}"
+    },
+    {
+      "item": "minecraft:oak_sapling",
+      "count": 2
+    },
+    {
+      "item": "minecraft:oak_sapling",
+      "count": 3
+    },
+    {
+      "item": "minecraft:oak_sapling",
+      "count": 3
+    }
+  ]
+}
