@@ -128,6 +128,16 @@
 
 - [FTB任务]ftb-quests-forge-1802.3.15-build.298.jar
 
+- [搬运] carryon-1.18.2-1.17.2.15.jar
+
+- [持久瞄准／移眼盯住] ConsistentAim-Forge-1.18.2-1.0.1.jar //用来兼容TaC战斗
+
+- [虚空放置天使方块]angelblockrenewed-forge-1.3-1.18.2.jar
+
+- [仁慈的虚空] forgivingvoid-forge-1.18.1-6.0.1.jar
+
+- [可配置的模组音量]mvo76-forge-1.0.2.jar
+
 
 # 装饰
 
