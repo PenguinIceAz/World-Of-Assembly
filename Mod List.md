@@ -14,9 +14,9 @@
 
 - [机械动力：甜食]Create Confectionery //更多食物，谁会拒绝甜食呢
 
-- [机械动力：更多存储挂载]Create: Mounted Storages //方便往农场挂载抽屉等储存
+~~ - [机械动力：更多存储挂载]Create: Mounted Storages ~~//禁用，会导致游戏崩溃
 
-- [机械动力：更多土豆]Create: More potatoe //有麦当劳薯条,暂时禁用
+~~ - [机械动力：更多土豆]Create: More potatoe ~~ //禁用，缺乏高版本机械动力兼容会导致崩溃
 
 - [机械动力：晶莹剔透]Create: Crystal Clear //应该能作为中期的合成目标内容
 
@@ -25,6 +25,8 @@
 - [机械动力：平衡飞行]Create: Balanced Flight //看起来很好用，作为支线或者中期目标
   
 - [永恒枪械工坊] tac-0.3.10.1
+
+- [永恒军工厂]timelessarsenal-0.23.jar //非常好自制模组，允许使用机械动力结构合成TaC内容
 
 # 农业
 
@@ -136,7 +138,7 @@
 
 - [仁慈的虚空] forgivingvoid-forge-1.18.1-6.0.1.jar
 
-- [可配置的模组音量]mvo76-forge-1.0.2.jar
+~~ - [可配置的模组音量]mvo76-forge-1.0.2.jar ~~ //会导致原版声音失效，禁用
 
 
 # 装饰
