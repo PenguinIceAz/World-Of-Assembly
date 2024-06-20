@@ -14,9 +14,9 @@
 
 - [机械动力：甜食]Create Confectionery //更多食物，谁会拒绝甜食呢
 
-~~ - [机械动力：更多存储挂载]Create: Mounted Storages ~~//禁用，会导致游戏崩溃
+- [机械动力：更多存储挂载]Create: Mounted Storages//禁用，会导致游戏崩溃
 
-~~ - [机械动力：更多土豆]Create: More potatoe ~~ //禁用，缺乏高版本机械动力兼容会导致崩溃
+- [机械动力：更多土豆]Create: More potatoe//禁用，缺乏高版本机械动力兼容会导致崩溃
 
 - [机械动力：晶莹剔透]Create: Crystal Clear //应该能作为中期的合成目标内容
 
@@ -46,7 +46,7 @@
 
 - [生活调味料：红薯版] solsweetpotato-1.18.2-2.0.0.jar
 
-## 冒险&挑战
+## 冒险&挑战 //全禁用状态
 
 - [迎战] Meet Your Fight //很方便的BOSS召唤挑战，希望能找到更多
 
@@ -138,7 +138,7 @@
 
 - [仁慈的虚空] forgivingvoid-forge-1.18.1-6.0.1.jar
 
-~~ - [可配置的模组音量]mvo76-forge-1.0.2.jar ~~ //会导致原版声音失效，禁用
+- [可配置的模组音量]mvo76-forge-1.0.2.jar//会导致原版声音失效，禁用
 
 
 # 装饰
@@ -165,14 +165,20 @@
 
 - [禁止怪物生成]BadMobs-1.18.2-13.01.jar
 
+- [反传送门] antiportals-mc1.18.2-1.3.jar //只禁用了前往下界
+
 # 待添加测试的模组，考虑中的模组
 
-## 农业
+- [更好的动物动作] BetterAnimationsCollection-v3.0.0-1.18.2-Forge.jar
+  
+- [猫猫唱片摇头]cat_jam-forge-mc1.18.2-1.2.2.jar
 
-- [作物盛景]Croptopia //添加更多吃的，但我们有必要加那么多吗
+- [桶中猫猫]catinbucket-1.18.2-0.0.4-26.jar//早期的国创模组
 
-- [资源坤坤]Resource Chickens //量产某些资源
+- [猫咪装饰] nekoration-1.18.2-1.7.5.jar
 
-- [更多鸡]Chickens //同上，选一个就行
+- [帕秋莉手册] Patchouli-1.18.2-71.1.jar
 
-- [多方块牧场]Multipart Machines: Grinding //思考是否添加，后期可以用来自动化生产某些end game内容
+- [巴迪卡牌] Buddycards-1.18.2-3.2.1.jar
+
+- [巴迪卡牌扩展] BuddycardsExpansions-1.18.2-1.1.5.jar
