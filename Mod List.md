@@ -14,20 +14,12 @@
 
 - [机械动力：甜食]Create Confectionery //更多食物，谁会拒绝甜食呢
 
-- [机械动力：更多存储挂载]Create: Mounted Storages//禁用，会导致游戏崩溃
-
-- [机械动力：更多土豆]Create: More potatoe//禁用，缺乏高版本机械动力兼容会导致崩溃
-
 - [机械动力：晶莹剔透]Create: Crystal Clear //应该能作为中期的合成目标内容
 
 - [机械动力：合金]Create: Alloyed //同上
 
 - [机械动力：平衡飞行]Create: Balanced Flight //看起来很好用，作为支线或者中期目标
   
-- [永恒枪械工坊] tac-0.3.10.1
-
-- [永恒军工厂]timelessarsenal-0.23.jar //非常好自制模组，允许使用机械动力结构合成TaC内容
-
 # 农业
 
 - [农夫乐事] FarmersDelight-1.2.3
@@ -46,25 +38,12 @@
 
 - [生活调味料：红薯版] solsweetpotato-1.18.2-2.0.0.jar
 
-## 冒险&挑战 //全禁用状态
-
-- [迎战] Meet Your Fight //很方便的BOSS召唤挑战，希望能找到更多
-
-- [冠军/强敌] Champions //估计要调整下生成
-
-- [末地：创世]End Remastered //应该会使用部分素材,需要集齐12颗末影之眼才能打开，可以作为游戏整体流程目标
-
-- [深暗之园] The_Undergarden-1.18.2-0.7.1.jar //战斗维度
-
-- [灾变]L_Enders Cataclysm-0.51-changed Them -1.18.2.jar
-  
-- [Mowzie的生物] mowziesmobs-1.6.3.jar
 
 # 辅助&实用
 
 - [无中生有：传承]ExNihiloSequentia-1.18.2-20230528-221633.jar
 
-- [化作春泥更护花] NextSpring-Forge-1.18.2-1.0.0.jar
+- [跳舞生长一切] TwerkItMeal-2.2.2.jar
 
 - [可视化工作台] VisualWorkbench-v3.3.0-1.18.2-Forge.jar
 
@@ -118,8 +97,6 @@
 
 - [铷 · 扩展]rubidium-extra-0.4.18+mc1.18.2-build.86.jar
 
-- [灾变Boss血条显示] cataclysmbossbar-1.18.2-1.0.1.jar
-
 - [FTB 团队] ftb-teams-forge-1802.2.11-build.107.jar
 
 - [FTB区块]ftb-chunks-forge-1802.3.17-build.265.jar
@@ -132,13 +109,10 @@
 
 - [搬运] carryon-1.18.2-1.17.2.15.jar
 
-- [持久瞄准／移眼盯住] ConsistentAim-Forge-1.18.2-1.0.1.jar //用来兼容TaC战斗
-
 - [虚空放置天使方块]angelblockrenewed-forge-1.3-1.18.2.jar
 
 - [仁慈的虚空] forgivingvoid-forge-1.18.1-6.0.1.jar
 
-- [可配置的模组音量]mvo76-forge-1.0.2.jar//会导致原版声音失效，禁用
 
 
 # 装饰
@@ -167,7 +141,7 @@
 
 - [反传送门] antiportals-mc1.18.2-1.3.jar //只禁用了前往下界
 
-# 待添加测试的模组，考虑中的模组
+# 待测试的模组
 
 - [更好的动物动作] BetterAnimationsCollection-v3.0.0-1.18.2-Forge.jar
   
@@ -182,3 +156,13 @@
 - [巴迪卡牌] Buddycards-1.18.2-3.2.1.jar
 
 - [巴迪卡牌扩展] BuddycardsExpansions-1.18.2-1.1.5.jar
+
+- [可爱毛绒玩具]plushies-1.2-1.18.2-forge.jar
+
+- [更多毛绒玩具]MOAdecor TOYS 1.18.2.jar
+
+- [布罗鲨鲨]shorkmod-1.0-1.18.2.jar
+
+- [小夜灯] nightlights_1.18.2_1.1.jar
+
+- [装饰乐事] DecorationDelightRefurbished-1.18.2.jar
