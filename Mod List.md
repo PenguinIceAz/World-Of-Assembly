@@ -4,8 +4,6 @@
   
 - [机械动力：实用物品] Createutilities-0.3.0
   
-- [机械动力：筛子] Createsifter-1.5.5.b-285
-  
 - [机械动力：液体燃料] Createliquidfuel-2.1.1
   
 - [机械动力：喷气背包] Create_jetpack-forge-1.6.1
@@ -40,6 +38,8 @@
 
 
 # 辅助&实用
+
+- [精妙背包] sophisticatedbackpacks-1.18.2-3.20.2.1036.jar
 
 - [无中生有：传承]ExNihiloSequentia-1.18.2-20230528-221633.jar
 
