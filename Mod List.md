@@ -1,6 +1,8 @@
 # 科技
 
 - [机械动力] Create-0.5.1.f
+
+- [动力造石机]create_mechanical_extruder-1.18.2-1.4.4.e-318.jar
   
 - [机械动力：实用物品] Createutilities-0.3.0
   
@@ -60,8 +62,6 @@
 - [连接纹理] CTM-1.18.2-1.1.5+5.jar //冲突暂时禁用
   
 - [建筑手杖] constructionwand-1.18.2-2.9.jar
-
-- [刷石机]CobbleForDays-1.5.1.jar
 
 - [聊天头像] chat_heads-0.6.1-forge-1.18.2.jar
 
